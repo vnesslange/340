@@ -1,0 +1,1 @@
+const baseUrl = "http://flip1.engr.oregonstate.edu:6345/"
